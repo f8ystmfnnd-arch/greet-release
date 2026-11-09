@@ -5,6 +5,8 @@ This project follows Keep a Changelog 1.1.0 and Semantic Versioning.
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-11-09
+
 ### Added
 - `greet()` previously always used `!` and now accepts an optional `punctuation` argument that defaults to `!`.
 
